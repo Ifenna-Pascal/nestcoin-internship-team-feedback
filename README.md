@@ -37,4 +37,66 @@
 
 
 
+## Task 2:- NestLibrary Task with team Wakanda
+
+[1st commit](https://github.com/Team-Wakanda/NestLibrary/commit/89347359b23e5514c7ecb515eb3498522a36b09b)
+
+**contribution**
+1. started out the solidity build
+2. built structs for the library
+3. created both all public functions for file creation, retrieval, and sharing
+
+[2nd commit](https://github.com/Team-Wakanda/NestLibrary/commit/6c8d2a27e5ec6c8e5b5b70b2d442d999d355d7d1)
+
+**contribution**
+1. Cleared all errors and warnings in the build
+2. refractored the solidity design
+
+# Task 3:- Zuri_Election Task with team U
+[1st commit](https://github.com/Ifenna-Pascal/Blockgames_task_3--VotingDapp/commit/cede8ba424c1fdcb1b0391cd131b5f6ff4a6e635)
+
+**contribution**
+1. Initialized the folder structure
+
+[2nd commit](https://github.com/Ifenna-Pascal/Blockgames_task_3--VotingDapp/commit/c605d8f2a8976679127768a0d2f17e28c7f3bec3)
+
+**contribution**
+1. Initialized Hardhat repo
+
+[3rd commit](https://github.com/Ifenna-Pascal/Blockgames_task_3--VotingDapp/commit/7156138219ad1fc491f4ef634a813f94e0a1d5c2)
+
+**contribution**
+1. contributed to writing smart contract
+2. Added access control
+
+
+
+[4th commit](https://github.com/Ifenna-Pascal/Blockgames_task_3--VotingDapp/commit/f3068ffa61eb957781b3ab1f1c708f1f45db3212)
+
+**contribution**
+1. Deployed the smart contract
+
+
+[4th commit](https://github.com/Ifenna-Pascal/Voting_Dapp_Fronend/commit/3e6d38806932e89453448474d323a59bac60e819)
+
+**contribution**
+1. Moved design from react.js to Next.js
+2. Installed web3.js
+3. implement connect wallet functionality
+4. implmented gercontract functionality
+5. carried out all function calls
+
+[5th commit](https://github.com/Ifenna-Pascal/Voting_Dapp_Fronend/commit/afed80187d3c8a17e855ad77b27496a0f00e165f)
+
+**contribution**
+1. Installed react-toastify for alert messages
+
+[6th commit](https://github.com/Ifenna-Pascal/Voting_Dapp_Fronend/commit/d3700186e9e1ee1ae01eeb8bd14e10ccfd72320a)
+
+**contribution**
+1. Changed deployed address
+
+
+
+
 
