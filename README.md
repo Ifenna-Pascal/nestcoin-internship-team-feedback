@@ -52,7 +52,7 @@
 1. Cleared all errors and warnings in the build
 2. refractored the solidity design
 
-# Task 3:- Zuri_Election Task with team U
+## Task 3:- Zuri_Election Task with team U
 [1st commit](https://github.com/Ifenna-Pascal/Blockgames_task_3--VotingDapp/commit/cede8ba424c1fdcb1b0391cd131b5f6ff4a6e635)
 
 **contribution**
